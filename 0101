@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 ,AMC HD
+#EXTINF:-1 ,0 AMC HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11863
 #EXTINF:-1 ,AXN HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11865
 #EXTINF:-1 ,Cinecanal HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/65838
-#EXTINF:-1 ,CINEMAX
+#EXTINF:-1 ,* CINEMAX
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/41506
 #EXTINF:-1 ,COMEDY CENTRAL HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11927
@@ -86,7 +86,7 @@ http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/496
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/499
 #EXTINF:-1 ,Discovery CHANNEL
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/488
-#EXTINF:-1 ,MR.BEAN
+#EXTINF:-1 ,_MR.BEAN
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/26203
 #EXTINF:-1 ,SOUTH PARK
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/309
