@@ -1,108 +1,108 @@
 #EXTM3U
 
-#EXTINF:-1 ,0 AMC HD
+#EXTINF:-1 ,* AMC HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11863
-#EXTINF:-1 ,AXN HD
+#EXTINF:-1 ,* AXN HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11865
-#EXTINF:-1 ,Cinecanal HD
+#EXTINF:-1 ,* Cinecanal HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/65838
 #EXTINF:-1 ,* CINEMAX
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/41506
-#EXTINF:-1 ,COMEDY CENTRAL HD
+#EXTINF:-1 ,_ COMEDY CENTRAL HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11927
-#EXTINF:-1 ,Distrito Comedia
+#EXTINF:-1 ,_ Distrito Comedia
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/1522
-#EXTINF:-1 ,FX 1
+#EXTINF:-1 ,* FX 1
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/66
-#EXTINF:-1 ,FX 2
+#EXTINF:-1 ,* FX 2
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11969
-#EXTINF:-1 ,FX Movies HD
+#EXTINF:-1 ,* FX Movies HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11971
-#EXTINF:-1 ,Star Chanel HD
+#EXTINF:-1 ,* Star Chanel HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/64
-#EXTINF:-1 ,Star action
+#EXTINF:-1 ,* Star action
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/87
-#EXTINF:-1 ,Star comedy
+#EXTINF:-1 ,* Star comedy
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/84
-#EXTINF:-1 ,STAR FUN HD
+#EXTINF:-1 ,* STAR FUN HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11958
-#EXTINF:-1 ,STAR HITS HD
+#EXTINF:-1 ,* STAR HITS HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11955
-#EXTINF:-1 ,STUDIO UNIVERSAL
+#EXTINF:-1 ,* STUDIO UNIVERSAL
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/58
-#EXTINF:-1 ,UNIVERSAL Series
+#EXTINF:-1 ,* UNIVERSAL Series
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/16720
-#EXTINF:-1 ,STUDIO UNIVERSAL HD
+#EXTINF:-1 ,* STUDIO UNIVERSAL HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/12039
-#EXTINF:-1 ,SONY HD
+#EXTINF:-1 ,* SONY HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/12032
-#EXTINF:-1 ,SPACE HD
+#EXTINF:-1 ,* SPACE HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/12034
-#EXTINF:-1 ,SPACE SD*
+#EXTINF:-1 ,* SPACE SD*
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/16710
-#EXTINF:-1 ,TNT HD MX
+#EXTINF:-1 ,* TNT HD MX
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/59
-#EXTINF:-1 ,TNT Series MX
+#EXTINF:-1 ,* TNT Series MX
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/5723
-#EXTINF:-1 ,TBS
+#EXTINF:-1 ,* TBS
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/40985
-#EXTINF:-1 ,WARNER CHANNEL HD
+#EXTINF:-1 ,*WARNER CHANNEL HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/72
-#EXTINF:-1 ,WARNER Chanel 01
+#EXTINF:-1 ,*WARNER Chanel 01
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/12070
-#EXTINF:-1 ,WARNER CHANNEL
+#EXTINF:-1 ,*WARNER CHANNEL
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/72
-#EXTINF:-1 ,PARAMOOUNT
+#EXTINF:-1 ,* 0PARAMOOUNT
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/41511
-#EXTINF:-1 ,Golden Plus
+#EXTINF:-1 ,*Golden Plus
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/26243
-#EXTINF:-1 ,Golden EDGE
+#EXTINF:-1 ,*Golden EDGE
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/26242
-#EXTINF:-1 ,HBO 1
+#EXTINF:-1 ,*HBO 1
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/41522
-#EXTINF:-1 ,HBO 2 HD
+#EXTINF:-1 ,*HBO 2 HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11993
-#EXTINF:-1 ,HBO Family HD
+#EXTINF:-1 ,*HBO Family HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/11988
-#EXTINF:-1 ,HBO Plus HD
+#EXTINF:-1 ,*HBO Plus HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/67551
-#EXTINF:-1 ,HBO Xtreme HD
+#EXTINF:-1 ,*HBO Xtreme HD
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/4942
-#EXTINF:-1 ,NICK
+#EXTINF:-1 ,_ NICK
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/41004
-#EXTINF:-1 ,NickTEEN
+#EXTINF:-1 ,_ NickTEEN
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/12020
-#EXTINF:-1 ,NICK JR
+#EXTINF:-1 ,_ NICK JR
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/41001
-#EXTINF:-1 ,Boomerang
+#EXTINF:-1 ,_ Boomerang
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/16633
-#EXTINF:-1 ,CartoonNetwork
+#EXTINF:-1 ,_ CartoonNetwork
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/40972
-#EXTINF:-1 ,HISTORY
+#EXTINF:-1 ,0 HISTORY
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/16690
-#EXTINF:-1 ,NAT GEO
+#EXTINF:-1 ,0 NAT GEO
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/496
-#EXTINF:-1 ,ANIMAL PLANET
+#EXTINF:-1 ,0 ANIMAL PLANET
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/499
-#EXTINF:-1 ,Discovery CHANNEL
+#EXTINF:-1 ,0 Discovery CHANNEL
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/488
-#EXTINF:-1 ,_MR.BEAN
+#EXTINF:-1 ,1 MR.BEAN
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/26203
-#EXTINF:-1 ,SOUTH PARK
+#EXTINF:-1 ,1 SOUTH PARK
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/309
-#EXTINF:-1 ,DINOSAURIOS
+#EXTINF:-1 ,1 DINOSAURIOS
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/344
-#EXTINF:-1 ,FUTURAMA
+#EXTINF:-1 ,1 FUTURAMA
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/351
 #EXTINF:-1 ,LA PANTERA ROSA
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/325
-#EXTINF:-1 ,LOS SIMPSON
+#EXTINF:-1 ,1 LOS SIMPSON
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/307
-#EXTINF:-1 ,ROBOTECH
+#EXTINF:-1 ,1 ROBOTECH
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/304
-#EXTINF:-1 ,Malcolm in the middle
+#EXTINF:-1 ,1 Malcolm in the middle
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/358
-#EXTINF:-1 ,LOS PICA PIEDRAS
+#EXTINF:-1 ,1 LOS PICA PIEDRAS
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/26226
-#EXTINF:-1 ,Ranma  -½
+#EXTINF:-1 ,1 Ranma  -½
 http://ui.mrzutv.net:8080/Nocelo/LW7fWBbQ5F/41455
